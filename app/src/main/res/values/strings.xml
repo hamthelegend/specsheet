@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Specsheet</string>
+
+    <string name="copy">Copy</string>
+    <string name="unknown">Unknown</string>
+    <string name="unimplemented">Unimplemented</string>
+
+    <string name="soc">SoC</string>
+    <string name="device">Device</string>
+    <string name="system">System</string>
+    <string name="battery">Battery</string>
+    <string name="thermal">Thermal</string>
+    <string name="sensors">Sensors</string>
+    <string name="about">About</string>
+
+    <string name="manufacturer">Manufacturer</string>
+    <string name="model">Model</string>
+    <string name="cores">Cores</string>
+    <string name="architecture">Architecture</string>
+    <string name="codename">Codename</string>
+    <string name="revision">Revision</string>
+    <string name="process">Process</string>
+    <string name="clock_speed">Clock speed</string>
+    <string name="cpu_number">CPU %1$d</string>
+    <string name="cpu_load">CPU load</string>
+    <string name="gpu_vendor">GPU vendor</string>
+    <string name="gpu_renderer">GPU renderer</string>
+    <string name="gpu_clock_speed">GPU clock speed</string>
+    <string name="gpu_load">GPU load</string>
+    <string name="scaling_governor">Scaling governor</string>
+    <string name="board">Board</string>
+    <string name="hardware">Hardware</string>
+    <string name="screen_size">Screen size</string>
+    <string name="screen_resolution">Screen resolution</string>
+    <string name="screen_density">Screen density</string>
+    <string name="total_ram">Total RAM</string>
+    <string name="available_ram">Available RAM</string>
+    <string name="internal_storage">Internal storage</string>
+    <string name="available_storage">Available storage</string>
+</resources>
