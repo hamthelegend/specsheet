@@ -28,7 +28,7 @@ fun InfoScreen(
                     .padding(horizontal = 4.unit),
                 info = info,
             )
-            VerticalSpacer(height = (if (index == socInfo.lastIndex) 4 else 2).unit)
+            VerticalSpacer(height = (if (index == infoList.lastIndex) 4 else 2).unit)
         }
     }
 }

@@ -37,4 +37,5 @@
     <string name="available_ram">Available RAM</string>
     <string name="internal_storage">Internal storage</string>
     <string name="available_storage">Available storage</string>
+    <string name="cpu">CPU</string>
 </resources>
